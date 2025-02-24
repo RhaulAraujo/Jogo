@@ -9,3 +9,5 @@ Verti_Veloc = 0;
 Veloc = 2;
 
 direcao = 0;
+
+global.vida = 2;
