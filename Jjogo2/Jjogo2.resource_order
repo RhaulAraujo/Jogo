@@ -23,7 +23,9 @@
     {"name":"Camera","order":2,"path":"objects/Camera/Camera.yy",},
     {"name":"Ob_Glorbp","order":4,"path":"objects/Ob_Glorbp/Ob_Glorbp.yy",},
     {"name":"Obj_coracao","order":3,"path":"objects/Obj_coracao/Obj_coracao.yy",},
+    {"name":"Obj_morte","order":5,"path":"objects/Obj_morte/Obj_morte.yy",},
     {"name":"ParedeObject2","order":1,"path":"objects/ParedeObject2/ParedeObject2.yy",},
+    {"name":"ciberpirata","order":25,"path":"sprites/ciberpirata/ciberpirata.yy",},
     {"name":"Coracao","order":10,"path":"sprites/Coracao/Coracao.yy",},
     {"name":"Mapa","order":1,"path":"sprites/Mapa/Mapa.yy",},
     {"name":"Parede","order":1,"path":"sprites/Parede/Parede.yy",},
@@ -36,5 +38,8 @@
     {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"variacao_roxo","order":24,"path":"sprites/variacao_roxo/variacao_roxo.yy",},
+    {"name":"variacao_verde","order":23,"path":"sprites/variacao_verde/variacao_verde.yy",},
+    {"name":"virus","order":21,"path":"sprites/virus/virus.yy",},
   ],
 }

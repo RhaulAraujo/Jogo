@@ -88,7 +88,25 @@ if (Horizon_Veloc == 0 && Verti_Veloc == 0) {
 
 
 
+//verifica se o personagem está saindo pela esquerda
+if (x < 0) {
+	x = 0;
+}
 
+//verifica se o personagem está sainda direita
+if (x > room_width - sprite_width){
+	x = room_width - sprite_width;
+}
+
+//verifica se o personagem está saindo pela parte superior da tela
+if (y < 0) {
+	y = 0;
+}
+
+//verifica se o personagem está saindo pela parte inferior da tela
+if (y > room_height - sprite_height) {
+	y = room_height - sprite_height;
+}
 
 
 
@@ -155,12 +173,10 @@ switch direcao{
 
 if global.vida < 1 {
 	
+	Veloc = 0;
+	Horizon_Veloc = 0;
+	Verti_Veloc = 0;
 	
-	
-    var cam_x = camera_get_view_x(view_camera[0]);
-	var cam_y = camera_get_view_y(view_camera[0]);
-	layer_sequence_create("Sequen", x, y,Sequen_MOrte);
+	instance_create_layer(0, 0, "Sequen", Obj_morte);
 	//game_restart();	
 }
-
-

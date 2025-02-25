@@ -1,0 +1,1 @@
+draw_sprite_ext(Sprite12, 0, 0, 0, 540 / sprite_width, 320 / sprite_height, 0, c_white, 1); 
