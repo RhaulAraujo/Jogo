@@ -7,7 +7,7 @@
   "option_operagx_game_name":"Jogoh",
   "option_operagx_guid":"",
   "option_operagx_internalShareUrl":"https://gx.games/games/l78sir/jogoh/tracks/59b02e4f-dbcf-4542-a15c-5bef9e4b1247/",
-  "option_operagx_interpolate_pixels":true,
+  "option_operagx_interpolate_pixels":false,
   "option_operagx_mod_editUrl":"",
   "option_operagx_mod_game_name":"Created with GameMaker",
   "option_operagx_mod_guid":"",

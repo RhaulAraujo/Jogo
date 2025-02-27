@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Personagem_1_Frente_1",
-    "path":"sprites/Personagem_1_Frente_1/Personagem_1_Frente_1.yy",
+    "name":"Personagem_Frente",
+    "path":"sprites/Personagem_Frente/Personagem_Frente.yy",
   },
   "spriteMaskId":null,
   "visible":true,
