@@ -11,3 +11,7 @@ Veloc = 2;
 direcao = 0;
 
 global.vida = 2;
+
+global.morreu = false; 
+
+estado = src_persona_andando;

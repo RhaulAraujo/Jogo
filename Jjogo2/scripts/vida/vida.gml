@@ -1,4 +1,6 @@
 function src_vida(){
+	
+	
 	if global.vida < 1 {
 	
 	Veloc = 0;
@@ -6,6 +8,7 @@ function src_vida(){
 	Verti_Veloc = 0;
 	
 	instance_create_layer(0, 0, "Sequen", Obj_morte);
+	 global.morreu = true; 
 	//game_restart();	
 }
 }
