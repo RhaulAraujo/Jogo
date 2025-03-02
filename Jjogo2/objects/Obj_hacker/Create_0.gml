@@ -1,6 +1,6 @@
 randomize();
 
-estad = "src_virus_escolher_estado";
+estad = "src_hacker_escolher_estado";
 
 prox_estado = 0;
 

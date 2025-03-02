@@ -58,7 +58,7 @@ if (Horizon_Veloc == 0 && Verti_Veloc == 0) {
             sprite_index = Personagem_Tras;
             break;
         case 2:
-            sprite_index = Personagem_Frente;
+            sprite_index = Personagem_1_Esquerda_4;
             break;
         case 3:
             sprite_index = Personagem_Frente;
@@ -77,7 +77,7 @@ if (Horizon_Veloc == 0 && Verti_Veloc == 0) {
             sprite_index = Personagem_tras_correndo;
             break;
         case 2:
-            sprite_index = Personagem_Frente;
+            sprite_index = Personagem_1_Esquerda_4;
             break;
         case 3:
             sprite_index = Personagem_Frente_Correndo;

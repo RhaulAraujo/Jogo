@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"Personagem_1_Esquerda_4",
+  "%Name":"Hacker",
   "bboxMode":0,
   "bbox_bottom":31,
-  "bbox_left":6,
-  "bbox_right":28,
+  "bbox_left":8,
+  "bbox_right":24,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1e227385-ecfb-4ed6-b4f2-b7ccf601ec67","name":"1e227385-ecfb-4ed6-b4f2-b7ccf601ec67","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"a2639999-2c58-40be-8b02-827cc6b40302","name":"a2639999-2c58-40be-8b02-827cc6b40302","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":32,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"2e526093-d2f7-4418-b1e1-baa2b207158d","blendMode":0,"displayName":"default","isLocked":false,"name":"2e526093-d2f7-4418-b1e1-baa2b207158d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"7093393e-e9a2-45f1-bbe1-753d2fd2b409","blendMode":0,"displayName":"default","isLocked":false,"name":"7093393e-e9a2-45f1-bbe1-753d2fd2b409","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Personagem_1_Esquerda_4",
+  "name":"Hacker",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Personagem_1_Esquerda_2",
+    "%Name":"Hacker",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,9 +57,9 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Personagem_1_Esquerda_2",
+    "name":"Hacker",
     "playback":1,
-    "playbackSpeed":2.0,
+    "playbackSpeed":30.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1e227385-ecfb-4ed6-b4f2-b7ccf601ec67","path":"sprites/Personagem_1_Esquerda_4/Personagem_1_Esquerda_4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5f9bfb2f-82c7-414a-941d-382414a08fe9","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a2639999-2c58-40be-8b02-827cc6b40302","path":"sprites/Hacker/Hacker.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"be0bdde5-0eb1-4899-acd1-aac2a661e362","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
