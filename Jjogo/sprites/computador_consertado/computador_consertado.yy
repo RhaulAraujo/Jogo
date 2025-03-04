@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"Personagem_1_Frente_2",
+  "%Name":"computador_consertado",
   "bboxMode":0,
-  "bbox_bottom":72,
-  "bbox_left":67,
-  "bbox_right":203,
-  "bbox_top":23,
+  "bbox_bottom":20,
+  "bbox_left":6,
+  "bbox_right":26,
+  "bbox_top":4,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e7b2f1d6-99bd-4968-9853-23fb7a6b32c3","name":"e7b2f1d6-99bd-4968-9853-23fb7a6b32c3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"a742da32-ddf2-471d-9006-b004b0ec2581","name":"a742da32-ddf2-471d-9006-b004b0ec2581","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":100,
+  "height":22,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"da843eba-00e2-41be-9019-91bb5d82073e","blendMode":0,"displayName":"default","isLocked":false,"name":"da843eba-00e2-41be-9019-91bb5d82073e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"840ef96f-d77a-49f5-a701-8b0051f4a353","blendMode":0,"displayName":"default","isLocked":false,"name":"840ef96f-d77a-49f5-a701-8b0051f4a353","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Personagem_1_Frente_2",
+  "name":"computador_consertado",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Personagem_1_Frente",
+    "%Name":"computador_consertado",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Personagem_1_Frente",
+    "name":"computador_consertado",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e7b2f1d6-99bd-4968-9853-23fb7a6b32c3","path":"sprites/Personagem_1_Frente_2/Personagem_1_Frente_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5f26981b-f65c-4dca-a521-612a5c8d5383","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a742da32-ddf2-471d-9006-b004b0ec2581","path":"sprites/computador_consertado/computador_consertado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"70d09edf-bd1d-42ff-8d55-d259215b0b29","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":250,
+  "width":27,
 }
