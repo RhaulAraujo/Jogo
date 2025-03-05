@@ -9,6 +9,10 @@
     {"name":"inst_6498DE52_1","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_4B1A08B9_1","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_6FF6D85_1","path":"rooms/Room2/Room2.yy",},
+<<<<<<< HEAD
+=======
+    {"name":"inst_7363CEB9_1","path":"rooms/Room2/Room2.yy",},
+>>>>>>> ced6a07404d5cc72614f147ae7f35a19a7d88da2
     {"name":"inst_10AEE39D_1","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_689F6B5E","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_77C244E8","path":"rooms/Room2/Room2.yy",},

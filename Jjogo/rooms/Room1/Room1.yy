@@ -31,13 +31,19 @@
     {"name":"inst_62CB4D8B","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_10AEE39D","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_36AF0196","path":"rooms/Room1/Room1.yy",},
+<<<<<<< HEAD
     {"name":"inst_1DEA3E9A","path":"rooms/Room1/Room1.yy",},
+=======
+>>>>>>> ced6a07404d5cc72614f147ae7f35a19a7d88da2
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_36AF0196","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_36AF0196","objectId":{"name":"Obj_computador_quebrado","path":"objects/Obj_computador_quebrado/Obj_computador_quebrado.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":32.0,},
+<<<<<<< HEAD
         {"$GMRInstance":"v1","%Name":"inst_1DEA3E9A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1DEA3E9A","objectId":{"name":"ParedeObject2","path":"objects/ParedeObject2/ParedeObject2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.2,"scaleY":1.5,"x":421.0,"y":194.0,},
+=======
+>>>>>>> ced6a07404d5cc72614f147ae7f35a19a7d88da2
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Sequen","assets":[],"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Sequen","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
