@@ -118,6 +118,18 @@ if (y > room_height - sprite_height) {
 		image_index = 0;
 		estado = src_persona_ataque();
 	}
+	
+	
+	
+	
+	// Verificar se o personagem está perto da tela quebrada e pressionou "E"
+if (distance_to_object(Obj_computador_quebrado) < 50) {
+    if (keyboard_check_pressed(ord("E"))) {
+        // Ação que ativa a animação de conserto da tela
+        Obj_computador_quebrado.animando = true;
+    }
+}
+
 
 
 }
@@ -171,5 +183,6 @@ function src_persona_ataque() {
         can_attack = true;
     }
 }
+
 
 

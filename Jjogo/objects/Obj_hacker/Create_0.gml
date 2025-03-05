@@ -15,4 +15,4 @@ dest_y = 0;
 
 depth = 200;
 
-life = 1;
+life = 2;
